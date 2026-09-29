@@ -63,6 +63,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="bg-background">
       <head>
+        <meta name="yandex-verification" content="3ae781bb2f4e22fe" />
         {/* Custom slot: add extra third-party verification / analytics tags here if needed */}
         <link rel="canonical" href={SITE_URL} />
         <meta name="robots" content="index, follow" />
